@@ -22,4 +22,4 @@ npm run dev
 
 	Everything that is required to deploy this to heroku has already been done.
 
-	Follow this article for further instructions, follow this article
+**Just clone this repo, connect GitHub with your Heroku account, select this repository in deploy-section and press deploy, that's it.**
